@@ -1,5 +1,5 @@
 # TP Blockchain du 09/03/2023
-## __Othor: Magne Jeremy__**
+## __Othor: Magne Jeremy__
 
 ### Getting started
 - create .secret folder and insert your secret phrase  
